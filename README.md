@@ -12,7 +12,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that perfor
 ## Screenshots
 
 ### HOME PAGE
-![HOME-PAGE]([https://github.com/RasanjaliHerath/PHP_CRUD-Application/Login.png])
+![HOME-PAGE]([https://raw.github.com/RasanjaliHerath/PHP_CRUD-Application/Login.png])
 
 ### INSERT
 ![INSERT](images/2.png)
