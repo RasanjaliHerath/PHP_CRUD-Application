@@ -27,7 +27,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that perfor
 
 ![updated](https://github.com/user-attachments/assets/982430af-8504-4f1b-a71f-d3986d3f7e0c)
 
-### UPDATE
+### DELETE
 
 ![Delete](https://github.com/user-attachments/assets/d5a47b93-ecbf-4862-8c70-18cbd01d237e)
 
